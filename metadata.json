@@ -1,0 +1,6 @@
+{
+  "name": "হিসাব Pro",
+  "description": "সহজেই মেসের বাজার খরচ সবার মধ্যে সমানভাবে ভাগ করুন",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

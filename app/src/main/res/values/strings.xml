@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">হিসাব Pro</string>
+    <string name="app_subtitle">সহজেই মেসের বাজার খরচ সবার মধ্যে সমানভাবে ভাগ করুন</string>
+    <string name="header_title">বাজার খরচ হিসাব ক্যালকুলেটর</string>
+    <string name="btn_add_member">+ নতুন সদস্য যোগ করুন</string>
+    <string name="btn_print_pdf">🖨️ প্রিন্ট / PDF সেভ করুন</string>
+    <string name="btn_reset">সব ক্লিয়ার করুন</string>
+    <string name="btn_calculate">🧮 হিসাব করুন</string>
+    <string name="summary_total_expense">মোট খরচ</string>
+    <string name="summary_total_members">মোট সদস্য</string>
+    <string name="summary_per_person">মাথাপিছু খরচ (সমান ভাগ)</string>
+    <string name="settlement_heading">দেনা-পাওনার ফাইনাল হিসাব</string>
+    <string name="settlement_empty_hint">হিসাব দেখতে উপরের \"হিসাব করুন\" বাটনে ক্লিক করুন।</string>
+    <string name="footer_text">Design and programmed by Dipu</string>
+    <string name="dialog_reset_title">সব ক্লিয়ার নিশ্চিতকরণ</string>
+    <string name="dialog_reset_message">আপনি কি সব তথ্য মুছে ফেলে নতুন করে শুরু করতে চান?</string>
+    <string name="dialog_confirm">হ্যাঁ, মুছে ফেলুন</string>
+    <string name="dialog_cancel">বাতিল</string>
+    <string name="label_member_name">সদস্য %1$s এর নাম</string>
+    <string name="label_member_expense">মোট খরচ (টাকা)</string>
+    <string name="placeholder_member_name">সদস্য %1$s</string>
+    <string name="placeholder_expense">০</string>
+    <string name="tag_get">ফেরত পাবেন ৳ %1$s</string>
+    <string name="tag_give">দিবেন ৳ %1$s</string>
+    <string name="tag_even">হিসাব সমতা</string>
+    <string name="btn_share">📲 শেয়ার করুন</string>
+    <string name="btn_share_whatsapp">হোয়াটসঅ্যাপে শেয়ার</string>
+    <string name="share_chooser_title">বাজার খরচ হিসাব বিবরণী শেয়ার করুন</string>
+    <string name="btn_export_csv">📊 CSV এক্সপোর্ট</string>
+    <string name="csv_export_success">CSV ফাইল সফলভাবে তৈরি হয়েছে!</string>
+</resources>
